@@ -27,7 +27,8 @@ Driver Code to call/invoke your function is mentioned above. '''
 #User function Template for python3
 # Function to print words with spaces
 def print_fun():
-    print('Geeks','For','Geeks')
     # Your code here
     # Do not use space in the string
     # try to use seperator
+    print('Geeks','For','Geeks')
+    
